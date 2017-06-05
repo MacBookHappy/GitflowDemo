@@ -6,7 +6,7 @@
 
     <groupId>cn.com.kuaileshijie</groupId>
     <artifactId>GitflowDemo</artifactId>
-    <version>1.1.1</version>
+    <version>1.1.1-SNAPSHOT</version>
 
 
     <properties>
